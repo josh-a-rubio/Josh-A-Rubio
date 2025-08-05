@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh Rubio
 
-<!--
-**josh-a-rubio/Josh-A-Rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌐 Always learning 
+
+---
+
+## 🚧 What I’m Working On
+
+-
+
+---
+
+## 🌍 Connect With Me
+
+- [Twitter](
+- [YouTube](
+- [LinkedIn](
+
+---
+
+> 💬 Always open to chat 
+
+
