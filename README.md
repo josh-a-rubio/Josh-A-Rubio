@@ -10,15 +10,15 @@
 - ⚡ Frontend with React.js 
 - 🧠 Digital Ledger in c
 
+## 📫 Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/josh-a-rubio)
+
 ## 🛠 Tech Stack
 - **Languages:** JavaScript  
 - **Tools:** 
 - **Frontend:**   
 - **Backend:**  
 
-## 📫 Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/josh-a-rubio)  
 
 
-Thank you for your time
 
