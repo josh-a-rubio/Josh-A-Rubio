@@ -1,29 +1,24 @@
-                            # 👋 Hi, I'm Josh Rubio
+<h1 align="center">Hi, I'm Josh Rubio 👋</h1>
 
-software development
-
----
-
-## 🧠 About Me
-
-- 🌐 Always learning 
+<p align="center">
+  Welcome to my GitHub! I'm currently a student in system admin (CNSA) at Thadeus Stevens College of Technology, passionate about software engineering, financial infrastucture, and cybersecurity.
+</p>
 
 ---
 
-## 🚧 What I’m Working On
+## 👨‍💻 What I’m Working On 
+- ⚡ Frontend with React.js 
+- 🧠 Digital Ledger in c
 
--
+## 🛠 Tech Stack
+- **Languages:** JavaScript  
+- **Tools:** 
+- **Frontend:**   
+- **Backend:**  
 
----
+## 📫 Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/josh-a-rubio)  
 
-## 🌍 Connect With Me
 
-- [Twitter](
-- [YouTube](
-- [LinkedIn](
-
----
-
-> 💬 Always open to chat 
-
+Thank you for your time
 
