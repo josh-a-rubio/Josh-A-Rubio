@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 What I’m Working On 
-- 🚨 Exploring machine learning for fraud detection scikit-learn.org
+- 🚨 Exploring machine learning for fraud detection [Scikit-learn](https://scikit-learn.org)
 - 🛠️ Building applications with c, python, and java
 
 ## 📫 Reach Me
