@@ -7,14 +7,14 @@
 ---
 
 ## 👨‍💻 What I’m Working On 
-- ⚡ Frontend with React.js 
-- 🧠 Digital Ledger in c
+- 🚨 Exploring machine learning for fraud detection 
+- 🛠️ Building applications with c, python, and java
 
 ## 📫 Reach Me
 - 💼 [LinkedIn](https://linkedin.com/in/josh-a-rubio)
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript  
+- **Languages:** c  
 - **Tools:** 
 - **Frontend:**   
 - **Backend:**  
