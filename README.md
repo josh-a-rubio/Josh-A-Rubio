@@ -16,8 +16,7 @@
 ## 🛠 Tech Stack
 - **Languages:** c  
 - **Tools:** 
-- **Frontend:**   
-- **Backend:**  
+- **Frameworks:**   
 
 
 
