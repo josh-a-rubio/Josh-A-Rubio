@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 - **Languages:** c  
 - **Developer Tools:** 
-- **libraries/Frameworks:**   
+- **Libraries/Frameworks:**   
 
 
 
