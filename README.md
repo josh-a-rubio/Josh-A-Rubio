@@ -8,8 +8,8 @@
 
 ## 👨‍💻 What I’m Working On 
 
-- 🚨 Exploring machine learning for fraud detection with [Scikit-learn](https://scikit-learn.org)
-- 🛠️ Building applications with c, python, and javascrpit
+- 🚨 Exploring machine learning with [Scikit-learn](https://scikit-learn.org)
+- 🛠️ Building applications with c, python, and javascript
 
 ## 📫 Reach Me
 
