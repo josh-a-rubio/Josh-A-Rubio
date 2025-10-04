@@ -8,7 +8,7 @@
 
 ## 👨‍💻 What I’m Working On 
 
-- 🚨 Exploring machine learning with [Scikit-learn](https://scikit-learn.org)
+- 🚨 Cloud security with [AWS](https://skillbuilder.aws)and exploring machine learning with [Scikit-learn](https://scikit-learn.org)
 - 🛠️ Building applications with c, python, and javascript
 
 ## 📫 Reach Me
