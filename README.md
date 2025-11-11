@@ -9,7 +9,7 @@
 ## 👨‍💻 What I’m Working On 
 
 - 🚨 Cloud security with [AWS](https://skillbuilder.aws) and exploring machine learning with [Scikit-learn](https://scikit-learn.org)
-- 🛠️ Building applications with c, python, and javascript
+- 🛠️ Building applications with C#, Python, and Javascript
 
 ## 📫 Reach Me
 
