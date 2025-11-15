@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Josh Rubio 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm currently a student in CNSA at Thaddeus Stevens College of Technology, passionate about System & Cloud Architecture.
+  Welcome to my GitHub! I'm currently a student in CNSA at Thaddeus Stevens College of Technology, passionate about implementing system & cloud architecture.
 </p>
 
 ---
