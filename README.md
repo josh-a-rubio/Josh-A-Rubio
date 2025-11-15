@@ -8,7 +8,7 @@
 
 ## 👨‍💻 What I’m Working On 
 
-- 🚨 Cloud security with [AWS](https://skillbuilder.aws) and exploring AI infrastructure with [NVIDIA](https://academy.nvidia.com/en/course/ai-infrastructure-operations-fundamentals/)
+- 🚨 Cloud security with [AWS](https://skillbuilder.aws) and exploring AI infrastructure with [NVIDIA](https://learn.nvidia.com/en-us/training/self-paced-courses#infrastructure)
 - 🛠️ Building applications with C#, Python, and Javascript
 
 ## 📫 Reach Me
