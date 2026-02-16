@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Josh Rubio 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm currently a student in CNSA at Thaddeus Stevens College of Technology, passionate about infrastructure & cloud architecture.
+  Welcome to my GitHub! I'm currently a student in Systems Administration specializing in Linux, networking, and cloud infrastructure.
 </p>
 
 ---
 
 ## 👨‍💻 What I’m Working On 
 
-- 🚨 Cloud security with [AWS](https://skillbuilder.aws) and exploring AI infrastructure with [NVIDIA](https://learn.nvidia.com/en-us/training/self-paced-courses#infrastructure)
-- 🛠️ Building applications with Python and Javascript
+- 🚨 Currently focused on [AWS](https://skillbuilder.aws), scripting, and infrastructure as code (IaC).
+- 🛠️ Building hands-on projects in server environments
 
 ## 📫 Reach Me
 
