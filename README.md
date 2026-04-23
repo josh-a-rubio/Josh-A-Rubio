@@ -8,7 +8,7 @@
 
 ## 👨‍💻 What I’m Working On 
 
-- 🚨 Currently focused on [AWS](https://skillbuilder.aws), scripting, and infrastructure as code (IaC).
+- 🚨 Currently focused on Linux administration and [AWS](https://skillbuilder.aws).
 - 🛠️ Building hands-on projects in server environments
 
 ## 📫 Reach Me
